@@ -1,0 +1,8 @@
+fastapi==0.109.2
+uvicorn==0.27.1
+pyside6==6.6.1
+requests==2.31.0
+python-multipart==0.0.9
+aiofiles==23.2.1
+nuitka==1.9.7
+ordered-set==4.1.0 
