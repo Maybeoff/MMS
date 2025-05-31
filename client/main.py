@@ -6,7 +6,7 @@ from PySide6.QtWidgets import (QApplication, QMainWindow, QWidget, QVBoxLayout,
 from PySide6.QtCore import Qt, QThread, Signal
 
 # Настройка сервера - измените этот адрес на нужный
-SERVER_URL = "http://5.129.196.213:8000/"
+SERVER_URL = "http://example.com:8000/"
 
 class ModSyncWorker(QThread):
     progress = Signal(int)
